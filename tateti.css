@@ -2,7 +2,7 @@ table {
   display: table-cell;
   padding: 5px;
   text-align: center;
-  background-color: #fff;
+  background-color: lightblue;
 }
 td {
   padding: 50px;
