@@ -1,0 +1,42 @@
+table {
+  display: table-cell;
+  padding: 5px;
+  text-align: center;
+  background-color: #fff;
+}
+td {
+  padding: 50px;
+}
+label {
+  display: inline-block;
+  text-align: right;
+  height: 80px;
+  color: #ffff;
+}
+input {
+  border-color: #fff;
+}
+body {
+  background-color: #e0bbe4;
+}
+td {
+  background-color: #fec8d8;
+}
+h1 {
+  color: #fff;
+}
+button {
+  display: block;
+  line-height: 10px;
+  margin: 4px 2px;
+  border-radius: 16px;
+  padding: 15px 28px;
+  border: 2px solid white;
+  background-color: #fec8d8;
+  font-size: 20px;
+  color: #fff;
+}
+button:hover {
+  cursor: pointer;
+  background-color: #ffb1cb;
+}
